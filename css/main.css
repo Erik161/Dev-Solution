@@ -35,6 +35,11 @@ h1{
     font-size: 50px;
     margin-top: -450px;
     margin-left: 150px;
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
 }
 
 h2{
@@ -43,6 +48,7 @@ h2{
     font-size: 40px;
     margin-top: -425px;
     margin-left: 150px;
+    font-weight: 100;
 }
 
 p{
@@ -160,8 +166,17 @@ li{
     font-family: 'SFProDisplay Thin';
     font-size: 32px;
     margin-top: -425px;
+    font-weight: 100;
 }
 
+.paragraphservices{
+    color: #707070;
+    margin-left: 680px;
+    font-family: 'SFProDisplay Thin';
+    font-size: 5px;
+    margin-top: -425px;
+    font-weight: 100;
+}
 
 
 
