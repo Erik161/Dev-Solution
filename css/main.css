@@ -142,13 +142,13 @@ li{
     width: 200px;
     height: 200px;
     margin-left: -150px;
-    margin-top: -400px;
+    margin-top: -100px;
 }
 
 .figure{
     width: 360px;
     height: 500px;
-    margin-left:1125px;
+    left:1125px;
     margin-top: -400px;
    
     position: relative;
@@ -158,7 +158,7 @@ li{
     width: 700px;
     height: 600px;
     margin-left: -55px;
-    margin-top: -450px; 
+    margin-top: -440px; 
 }
 
 .titleservices{
@@ -180,15 +180,40 @@ li{
 }
 
 
+.circulo2{
+    width: 450px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 100px;
+    
+}
+
+
 .card1 {
     width: 400px;
     height: 450px;
     box-shadow: 0 1px 30px 0 rgba(44, 52, 62, 0.18);
     background-color: #ffffff;
-    margin-top: 350px;
+    margin-top: -250px;
     margin-left: 150px;
     border-radius: 15px;
+    position: relative;
+    
+
 }
+
+.imgandroid{
+    width: 95px;
+    height: 35px;
+    margin-left: 40px;
+}
+
+.imgapple{
+    width: 95px;
+    height: 40px;
+    margin-left: 70px;
+}
+
 
 .imgpresentacion{
     margin-left: 30px;
@@ -207,9 +232,36 @@ li{
     margin-top: -445px;
     margin-left: 700px;
     border-radius: 15px;
+    text-align: center;
 }
 
+.imgprototype{
+    width: 332px;
+    height: 203px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
 
+.card3{
+    width: 400px;
+    height: 450px;
+    box-shadow: 0 1px 30px 0 rgba(44, 52, 62, 0.18);
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.card4{
+    width: 400px;
+    height: 450px;
+    box-shadow: 0 1px 30px 0 rgba(44, 52, 62, 0.18);
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin-top: -450px;
+    margin-left: 700px;
+}
 
 
 
