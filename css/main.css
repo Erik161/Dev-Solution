@@ -253,6 +253,15 @@ li{
     margin-top: 100px;
 }
 
+.imgsocial{
+    width: 332px;
+    height: 203px;
+    border-radius: 20px;
+    margin-top:20px;
+    margin-left: 30px;
+}
+
+
 .card4{
     width: 400px;
     height: 450px;
@@ -261,6 +270,15 @@ li{
     border-radius: 15px;
     margin-top: -450px;
     margin-left: 700px;
+}
+
+.imgbitcoin{
+    width: 332px;
+    height: 203px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    
 }
 
 
