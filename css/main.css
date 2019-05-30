@@ -281,10 +281,13 @@ li{
     
 }
 
-
-
-
-
+.imgdatabase{
+    width: 332px;
+    height: 203px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
 
 
 
