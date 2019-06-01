@@ -100,7 +100,7 @@ h2{
     width:500px;
     height:420px;
     margin-left:790px;
-    margin-top: -300px;
+    margin-top: -400px;
     position: relative;
     animation: anim 8s infinite;
 }
@@ -215,15 +215,6 @@ li{
 }
 
 
-.imgpresentacion{
-    margin-left: 30px;
-    margin-top: 20px;
-    width: 332px;
-    height: 203px;
-    border-radius: 20px;
-    
-}
-
 .card2{
     width: 400px;
     height: 450px;
@@ -233,14 +224,6 @@ li{
     margin-left: 700px;
     border-radius: 15px;
     text-align: center;
-}
-
-.imgprototype{
-    width: 332px;
-    height: 203px;
-    border-radius: 20px;
-    margin-top: 20px;
-    margin-left: 30px;
 }
 
 .card3{
@@ -253,13 +236,6 @@ li{
     margin-top: 100px;
 }
 
-.imgsocial{
-    width: 332px;
-    height: 203px;
-    border-radius: 20px;
-    margin-top:20px;
-    margin-left: 30px;
-}
 
 
 .card4{
@@ -272,22 +248,18 @@ li{
     margin-left: 700px;
 }
 
-.imgbitcoin{
+
+
+.imgcardedit{
     width: 332px;
     height: 203px;
     border-radius: 20px;
     margin-top: 20px;
     margin-left: 30px;
-    
 }
 
-.imgdatabase{
-    width: 332px;
-    height: 203px;
-    border-radius: 20px;
-    margin-top: 20px;
-    margin-left: 30px;
-}
+
+
 
 
 
